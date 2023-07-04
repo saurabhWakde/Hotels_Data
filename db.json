@@ -1,0 +1,418 @@
+{
+
+   "Tours": 
+    [{
+        "id": 1,
+        "name": "Kerala Backwaters",
+        "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VyYWxhJTIwYmFja3dhdGVyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "type": "Nature View",
+        "price": "20$",
+        "rating": "4.4",
+        "location": "Kerala",
+        "description": "Explore the tranquil canals and lush green landscapes of the Kerala Backwaters, offering a serene getaway in the lap of nature."
+        },
+        
+        {
+        "id": 2,
+        "name": "Goa Beaches",
+        "image": "https://images.unsplash.com/photo-1580741186862-c5d0bf2aff33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R29hJTIwQmVhY2hlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "type": "Nature View",
+        "price": "30$",
+        "rating": "4.6",
+        "location": "Goa",
+        "description": "Discover the pristine beaches of Goa, renowned for their golden sands, turquoise waters, and vibrant beach culture."
+        },
+        
+        {
+            "id": 42,
+            "name": "Raigad Fort",
+            "image": "https://images.unsplash.com/photo-1589644873574-345111273e9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "type": "Historic",
+            "price": "10$",
+            "rating": "4.5",
+            "location": "Maharashtra",
+            "description": "Explore the majestic Raigad Fort, a significant historical site that served as the capital of the Maratha Empire. Climb the steps or take a ropeway to the top and witness panoramic views of the surrounding landscapes."
+            },
+        
+        {
+        "id": 4,
+        "name": "Varanasi",
+        "image": "https://images.unsplash.com/photo-1561359313-0639aad49ca6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmFyYW5hc2l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "type": "Spiritual",
+        "price": "15$",
+        "rating": "4.4",
+        "location": "Uttar Pradesh",
+        "description": "Experience the spiritual aura of Varanasi, one of the oldest inhabited cities in the world and a major pilgrimage site for Hindus."
+        },
+        
+        {
+        "id": 5,
+        "name": "Rishikesh",
+        "image": "https://images.unsplash.com/photo-1650341259809-9314b0de9268?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Spiritual",
+        "price": "18$",
+        "rating": "4.6",
+        "location": "Uttarakhand",
+        "description": "Embark on a spiritual journey in Rishikesh, famous for yoga, meditation, and the sacred Ganges River."
+        },
+        
+        {
+        "id": 6,
+        "name": "Jaipur",
+        "image": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+        "type": "Historic",
+        "price": "22$",
+        "rating": "4.7",
+        "location": "Rajasthan",
+        "description": "Immerse yourself in the royal history of Jaipur, known for its magnificent palaces, forts, and vibrant culture."
+        },
+        
+        {
+        "id": 7,
+        "name": "Munnar",
+        "image": "https://images.unsplash.com/photo-1580818135730-ebd11086660b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TXVubmFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "type": "Nature View",
+        "price": "25$",
+        "rating": "4.5",
+        "location": "Kerala",
+        "description": "Experience the serene beauty of Munnar, a hill station adorned with tea plantations, misty hills, and breathtaking landscapes."
+        },
+        
+        {
+        "id": 8,
+        "name": "Amritsar",
+        "image": "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
+        "type": "Spiritual",
+        "price": "17$",
+        "rating": "4.5",
+        "location": "Punjab",
+        "description": "Visit Amritsar, home to the iconic Golden Temple, the spiritual and cultural center of Sikhism."
+        },
+        
+        {
+        "id": 9,
+        "name": "Mysore",
+        "image": "https://images.unsplash.com/photo-1620766182966-c6eb5ed2b788?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "type": "Historic",
+        "price": "20$",
+        "rating": "4.4",
+        "location": "Karnataka",
+        "description": "Explore the grandeur of Mysore, with its magnificent Mysore Palace, bustling markets, and vibrant Dasara festival."
+        },
+        
+        {
+        "id": 10,
+        "name": "Ladakh",
+        "image": "https://images.unsplash.com/photo-1559186820-3e8201de3879?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGFkYWtofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "type": "Nature View",
+        "price": "35$",
+        "rating": "4.9",
+        "location": "Jammu and Kashmir",
+        "description": "Discover the breathtaking landscapes of Ladakh, with its rugged mountains, pristine lakes, and unique cultural experiences."
+        },
+        
+        {
+        "id": 11,
+        "name": "Ellora Caves",
+        "image": "https://images.unsplash.com/photo-1631774933370-d596a344e851?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Historic",
+        "price": "19$",
+        "rating": "4.5",
+        "location": "Maharashtra",
+        "description": "Marvel at the ancient rock-cut temples and intricate carvings of the Ellora Caves, a UNESCO World Heritage site."
+        },
+        
+        {
+        "id": 12,
+        "name": "Pondicherry",
+        "image": "https://images.unsplash.com/photo-1621865849773-e995a60420d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1190&q=80",
+        "type": "Spiritual",
+        "price": "18$",
+        "rating": "4.3",
+        "location": "Puducherry",
+        "description": "Experience the French influence and peaceful charm of Pondicherry, known for its serene beaches and spiritual retreats."
+        },
+        
+        {
+        "id": 13,
+        "name": "Shimla",
+        "image": "https://images.unsplash.com/photo-1593183981460-e9276b5a5587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1251&q=80",
+        "type": "Nature View",
+        "price": "22$",
+        "rating": "4.6",
+        "location": "Himachal Pradesh",
+        "description": "Escape to the picturesque hill station of Shimla, offering panoramic views, colonial architecture, and pleasant weather."
+        },
+        
+        {
+        "id": 14,
+        "name": "Khajuraho Temples",
+        "image": "https://images.unsplash.com/photo-1606298855672-3efb63017be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Historic",
+        "price": "21$",
+        "rating": "4.4",
+        "location": "Madhya Pradesh",
+        "description": "Admire the intricate stone carvings and ancient artistry of the Khajuraho Temples, a UNESCO World Heritage site."
+        },
+        
+        {
+        "id": 15,
+        "name": "Ranthambore National Park",
+        "image": "https://images.unsplash.com/photo-1680140979890-101e2798dddf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Nature View",
+        "price": "28$",
+        "rating": "4.7",
+        "location": "Rajasthan",
+        "description": "Embark on an adventurous safari in Ranthambore National Park, known for its tiger population and diverse wildlife."
+        },
+        
+        {
+        "id": 16,
+        "name": "Auroville",
+        "image": "https://images.unsplash.com/photo-1674279967369-8dacf24d9b69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Spiritual",
+        "price": "16$",
+        "rating": "4.4",
+        "location": "Tamil Nadu",
+        "description": "Experience the harmonious community living and sustainable practices of Auroville, a spiritual and experimental township."
+        },
+        
+        {
+        "id": 17,
+        "name": "Hampi",
+        "image": "https://images.unsplash.com/photo-1591536098930-d571deee309a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+        "type": "Historic",
+        "price": "20$",
+        "rating": "4.5",
+        "location": "Karnataka",
+        "description": "Explore the mesmerizing ruins of Hampi, an ancient UNESCO World Heritage site known for its rich history and architectural marvels."
+        },
+        
+        {
+        "id": 18,
+        "name": "Pushkar",
+        "image": "https://images.unsplash.com/flagged/photo-1586176182329-f901b80d3bd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Spiritual",
+        "price": "19$",
+        "rating": "4.3",
+        "location": "Rajasthan",
+        "description": "Visit the holy town of Pushkar, known for its sacred Pushkar Lake and the annual Pushkar Camel Fair."
+        },
+        
+        {
+        "id": 19,
+        "name": "Nainital",
+        "image": "https://images.unsplash.com/photo-1605473172160-f067a4d61331?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+        "type": "Nature View",
+        "price": "22$",
+        "rating": "4.6",
+        "location": "Uttarakhand",
+        "description": "Indulge in the beauty of Nainital, a charming hill station with a sparkling lake, panoramic views, and pleasant weather."
+        }
+        ,
+        {
+        "id": 20,
+        "name": "Andaman and Nicobar Islands",
+        "image": "https://images.unsplash.com/photo-1579317344982-256c49ab1e0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Nature View",
+        "price": "30$",
+        "rating": "4.8",
+        "location": "Andaman and Nicobar Islands",
+        "description": "Discover the untouched beaches, vibrant coral reefs, and marine life of the Andaman and Nicobar Islands."
+        }
+        ,
+        {
+        "id": 21,
+        "name": "Jaisalmer",
+        "image": "https://images.unsplash.com/photo-1627301517152-11505d049286?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+        "type": "Historic",
+        "price": "24$",
+        "rating": "4.6",
+        "location": "Rajasthan",
+        "description": "Experience the golden sand dunes and the majestic Jaisalmer Fort in the enchanting city of Jaisalmer."
+        }
+        ,
+        {
+        "id": 22,
+        "name": "Mahabaleshwar",
+        "image": "https://images.unsplash.com/photo-1642516864138-ca3d18012687?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1886&q=80",
+        "type": "Nature View",
+        "price": "26$",
+        "rating": "4.4",
+        "location": "Maharashtra",
+        "description": "Escape to the scenic hill station of Mahabaleshwar, known for its pleasant climate, strawberry farms, and stunning viewpoints."
+        }
+        ,
+        {
+        "id": 23,
+        "name": "Darjeeling",
+        "image": "https://images.unsplash.com/photo-1552685807-525433b008dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Nature View",
+        "price": "23$",
+        "rating": "4.5",
+        "location": "West Bengal",
+        "description": "Indulge in the breathtaking views of the Himalayas, tea plantations, and charming toy train rides in Darjeeling."
+        }
+        ,
+        {
+        "id": 24,
+        "name": "Agra Fort",
+        "image": "https://images.unsplash.com/photo-1591018653367-9c01498b3320?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Historic",
+        "price": "19$",
+        "rating": "4.3",
+        "location": "Agra, Uttar Pradesh",
+        "description": "Explore the magnificent Agra Fort, a UNESCO World Heritage site and a symbol of power and grandeur."
+        }
+        ,
+        {
+        "id": 25,
+        "name": "Ooty",
+        "image": "https://images.unsplash.com/photo-1590765759804-0b2b579820b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1215&q=80",
+        "type": "Nature View",
+        "price": "25$",
+        "rating": "4.6",
+        "location": "Tamil Nadu",
+        "description": "Experience the scenic beauty of Ooty, a popular hill station known for its tea gardens, lakes, and pleasant climate."
+        }
+        ,
+        {
+        "id": 26,
+        "name": "Konark Sun Temple",
+        "image": "https://images.unsplash.com/photo-1576235282476-debff2a4d0b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "type": "Historic",
+        "price": "20$",
+        "rating": "4.4",
+        "location": "Odisha",
+        "description": "Admire the architectural marvel of the Konark Sun Temple, a UNESCO World Heritage site and an epitome of ancient Indian artistry."
+        }
+        ,
+        {
+        "id": 27,
+        "name": "Haridwar",
+        "image": "https://images.unsplash.com/photo-1641107699881-faab3a70b6fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Spiritual",
+        "price": "18$",
+        "rating": "4.5",
+        "location": "Uttarakhand",
+        "description": "Witness the grand Ganga Aarti ceremony and seek spiritual solace in the holy city of Haridwar."
+        }
+        ,
+        {
+        "id": 28,
+        "name": "Gokarna",
+        "image": "https://images.unsplash.com/photo-1592400996963-241a8866c1fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+        "type": "Spiritual",
+        "price": "16$",
+        "rating": "4.3",
+        "location": "Karnataka",
+        "description": "Discover the serene beaches and ancient temples of Gokarna, a spiritual and offbeat destination in Karnataka."
+        }
+        ,
+        {
+        "id": 29,
+        "name": "Udaipur",
+        "image": "https://images.unsplash.com/photo-1633702738734-443da2c18f3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "type": "Historic",
+        "price": "23$",
+        "rating": "4.6",
+        "location": "Rajasthan",
+        "description": "Experience the regal charm of Udaipur, known as the 'City of Lakes,' with its magnificent palaces and romantic ambiance."
+        }
+        ,
+        {
+        "id": 30,
+        "name": "Jim Corbett National Park",
+        "image": "https://images.unsplash.com/photo-1643269478136-1527a5f8599e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1878&q=80",
+        "type": "Nature View",
+        "price": "28$",
+        "rating": "4.7",
+        "location": "Uttarakhand",
+        "description": "Embark on a thrilling wildlife safari in Jim Corbett National Park, home to Bengal tigers, elephants, and diverse flora and fauna."
+        },
+        {
+            "id": 31,
+            "name": "Ajanta Caves",
+            "image": "https://e0.pxfuel.com/wallpapers/429/359/desktop-wallpaper-ajanta-caves-maharashtra-by-microsoft.jpg",
+            "type": "Historic",
+            "price": "21$",
+            "rating": "4.5",
+            "location": "Maharashtra",
+            "description": "Explore ancient Buddhist rock-cut caves adorned with intricate paintings and sculptures at the Ajanta Caves, a UNESCO World Heritage site."
+            
+            }
+            ,
+            {
+            "id": 32,
+            "name": "Rajasthan Desert",
+            "image": "https://images.unsplash.com/photo-1647502734051-f2b446252461?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+            "type": "Nature View",
+            "price": "30$",
+            "rating": "4.8",
+            "location": "Rajasthan",
+            "description": "Experience the vibrant culture and vast desert landscapes of Rajasthan, with camel safaris and traditional Rajasthani hospitality."
+            
+            },
+            
+            {
+            "id": 33,
+            "name": "Kolkata",
+            "image": "https://images.unsplash.com/photo-1558431382-9b06d0507edc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+            "type": "Historic",
+            "price": "24$",
+            "rating": "4.6",
+            "location": "West Bengal",
+            "description": "Immerse yourself in the rich history, colonial architecture, and cultural heritage of Kolkata, the 'City of Joy.'"
+            
+            }
+            ,
+            {
+                "id": 34,
+                "name": "Kamakhya Temple",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kamakhya_Guwahati.JPG",
+                "type": "Spiritual",
+                "price":"24$",
+                "location": "Guwahati, Assam",
+                "description": "Visit the sacred Kamakhya Temple, one of the most prominent Shakti Peethas in India. Perched atop Nilachal Hill in Guwahati, Assam, this revered Hindu temple attracts devotees and tourists from all over the world.",
+                "rating": "4.8"
+                }
+            ,
+            {
+            "id": 35,
+            "name": "Valley of Flowers",
+            "image": "https://wallpapercave.com/wp/wp5732026.jpg",
+            "type": "Nature View",
+            "price": "23$",
+            "rating": "4.5",
+            "location": "Uttarakhand",
+            "description": "Explore the enchanting Valley of Flowers, a UNESCO World Heritage site known for its vibrant meadows and alpine flora."
+            
+            }
+            ,
+            {
+            "id": 36,
+            "name": "Sundarbans National Park",
+            "image": "https://i.pinimg.com/736x/d6/af/3a/d6af3a9a2c7ad3722139d0cd352fcfa1.jpg",
+            "type": "Nature View",
+            "price": "18$",
+            "rating": "4.5",
+            "location": "West Bengal",
+            "description": "Embark on an adventurous wildlife safari in the Sundarbans, the largest mangrove forest and a UNESCO World Heritage site."
+            
+            }
+            ,
+            {
+                "id": 37,
+                "name": "Kodaikanal",
+                "image": "",
+                "type": "Nature View",
+                "price": "23$",
+                "rating": "4.6",
+                "location": "Tamil Nadu",
+                "description": "Relax and rejuvenate amidst the misty hills, serene lakes, and lush greenery of Kodaikanal, the 'Princess of Hill Stations.'"
+            }
+       
+    ]
+  
+}
+
